@@ -7,8 +7,7 @@
 <div>
   <a href="https://github.com/Murillosys">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Murillosys&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>   
-   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murillosys&layout=compact&langs_count=7&theme=blue-green"/>
-    <img align="right" alt="Murillo-gif" height="130" width="130" src="https://cdn.discordapp.com/attachments/134319241099739137/870108121484386304/gifTomilho.gif">
+   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murillosys&layout=compact&langs_count=7&theme=blue-green"/>    
 </div>
  
 <div style="display: inline_block"><br>
@@ -21,6 +20,7 @@
   <img align="center" alt="Murillo-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Murillo-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Murillo-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> 
+ <img align="right" alt="Murillo-gif" height="130" width="130" src="https://cdn.discordapp.com/attachments/134319241099739137/870108121484386304/gifTomilho.gif">
 </div>
   
   ##
