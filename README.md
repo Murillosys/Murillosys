@@ -1,7 +1,7 @@
 ## Olá! Eu sou Murillo Marques de Oliveira.
 
- - 👔 Estou trabalhando atualmente com mobile Kotlin e BackEnd Java.
- - 🌱 Estou aprendendo BackEnd em Java.
+ - 👔 Estou trabalhando atualmente com Gerência de Projetos e BackEnd em Java.
+ - 🌱 Estou aprendendo desenvolvimento de Jogos com Godot.
  - ⚡ Gosto de estudar e desenvolver jogos nos tempos vagos.
 
 <div>
