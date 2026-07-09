@@ -16,24 +16,16 @@
  </a>
  <a href="https://www.linkedin.com/in/murillomo/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
- </a> 
- <div>
-    <a href="https://github.com/Murillosys?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Murillosys?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Murillosys?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Murillosys?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</div>
-</div>
+ </a>  
+ <a href="https://github.com/Murillosys?tab=repositories&sort=stargazers">
+  <img alt="Total de estrelas" title="Total de estrelas GitHub"
+   src="https://custom-icon-badges.demolab.com/github/stars/Murillosys?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
+ </a>
+ <a href="https://github.com/Murillosys?tab=followers">
+  <img alt="Seguidores" title="Me siga no GitHub"
+   src="https://custom-icon-badges.demolab.com/github/followers/Murillosys?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+ </a>
+</div><br>
 
 ### Linguagens e Tecnologias
 <div style="display: inline_block">
