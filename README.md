@@ -10,7 +10,7 @@
 - Graduado em Análise e Desenvolvimento de Sistemas - PUC-GO. 
 #
 
-<img align="right" alt="Murillo-gif" height="130" width="130" src="./src/assets/binary-code.gif">
+<img align="right" alt="Murillo-gif" height="130" width="130" src="./src/assets/java-tomilho.gif">
 
 ### Contato
 <div style="display: inline_block">
