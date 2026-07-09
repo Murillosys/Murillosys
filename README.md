@@ -9,6 +9,9 @@
 - Pós Graduado Projetos e arquiteturas em cloud computing - Anhanguera.
 - Graduado em Análise e Desenvolvimento de Sistemas - PUC-GO. 
 #
+
+<img align="right" alt="Murillo-gif" height="130" width="130" src="./src/assets/binary-code.gif">
+
 ### Contato
 <div style="display: inline_block">
  <a href = "mailto:murillosys@gmail.com">
@@ -49,8 +52,7 @@
   <img align="center" alt="Murillo-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
   <img align="center" alt="Murillo-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Murillo-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Murillo-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">   
- <img align="right" alt="Murillo-gif" height="130" width="130" src="https://cdn.discordapp.com/attachments/134319241099739137/870108121484386304/gifTomilho.gif">
+  <img align="center" alt="Murillo-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"> 
 </div>
 
 
