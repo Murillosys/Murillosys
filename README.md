@@ -1,8 +1,8 @@
 ## Olá! Eu sou Murillo Marques de Oliveira.
 
- - 👔 Estou trabalhando atualmente com Gerência de Projetos e BackEnd em Java.
- - 🌱 Estou aprendendo desenvolvimento de Jogos com Godot.
- - ⚡ Gosto de estudar e desenvolver jogos nos tempos vagos.
+ - 👔 Estou trabalhando atualmente com Backend em Java e em NodeJs, com experiencia em Gerência de Projetos e Tech Lead.
+ - 🌱 Desenvolvo jogos 2D e 3D com Godot por hobby.
+ - ⚡ Gosto de estudar novas tecnologias, e aperfeiçoar minhas skills.
 
 <div>
   <a href="https://github.com/Murillosys">
