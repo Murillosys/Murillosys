@@ -49,7 +49,7 @@
 
  ### Estatísticas 
 <div>   
-   <img align="right" alt="Murillo-gif" height="130" width="130" src="./src/assets/binary.gif">
+   <!-- <img align="right" alt="Murillo-gif" height="130" width="130" src="./src/assets/binary.gif"> -->
  
   ![Snake animation](https://github.com/murillosys/murillosys/blob/output/github-contribution-grid-snake.svg) 
   
